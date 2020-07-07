@@ -1,7 +1,8 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
+gem 'berkshelf', '~> 7.0'
+gem 'chef', '~> 13.0'
 gem 'rake', '~> 12.3'
-gem 'berkshelf', '~> 4.0.1'
 
 group :integration do
   gem 'kitchen-vagrant', '~> 0.19.0'
