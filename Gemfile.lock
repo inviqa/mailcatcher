@@ -219,7 +219,7 @@ GEM
     unicode-display_width (1.7.0)
     uuidtools (2.1.5)
     wmi-lite (1.0.5)
-    yajl-ruby (1.4.1)
+    yajl-ruby (1.4.2)
 
 PLATFORMS
   ruby
